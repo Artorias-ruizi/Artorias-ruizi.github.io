@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: ''
-citation: ''
+citation: 'Yang Lou, <b>Ruizi Wu</b>, Junli Li, Lin Wang and Guanrong Chen. "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness". IEEE Transactions on Network Science and Engineering. vol. 8, no. 4, pp. 3209-3219, 1 Oct.-Dec. 2021.'
 ---
 
 **Abstract**
