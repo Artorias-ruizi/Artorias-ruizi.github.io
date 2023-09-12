@@ -2,11 +2,11 @@
 title: "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness"
 collection: publications
 permalink: /publication/WU2021TNSE
-excerpt: 'In the present paper, an efficient method based on convolutional neural network (CNN) is proposed to train for estimating the network connectedness robustness.'
+excerpt: ''
 date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: ''
-citation: 'Yang Lou, <b>Ruizi Wu</b>, Junli Li, Lin Wang and Guanrong Chen. "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness". IEEE Transactions on Network Science and Engineering. vol. 8, no. 4, pp. 3209-3219, 1 Oct.-Dec. 2021.'
+citation: ''
 ---
 
 **Abstract**
