@@ -2,7 +2,7 @@
 title: "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness"
 collection: publications
 permalink: /publication/WU2021TNSE
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'In the present paper, an efficient method based on convolutional neural network (CNN) is proposed to train for estimating the network connectedness robustness.'
 date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: 'http://academicpages.github.io/files/WU2021TNSE.pdf'
@@ -31,6 +31,7 @@ excellently in the prediction of the connectedness robustness of
 complex networks as a process; 2) it performs fairly well as the
 indicator for the connectedness robustness, compared to other
 predictive measures.
+
 
 *Index Terms: Complex network, convolutional neural network, connectedness, robustness, prediction*
 
