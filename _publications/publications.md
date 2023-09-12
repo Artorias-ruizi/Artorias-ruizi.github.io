@@ -1,4 +1,3 @@
-# Publications
 
 ## 1.TNSE
 
