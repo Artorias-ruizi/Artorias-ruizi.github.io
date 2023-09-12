@@ -1,7 +1,7 @@
 ---
 title: "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness"
 collection: publications
-permalink: /publications/WU2021TNSE
+permalink: /publication/WU2021TNSE
 date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: 'http://academicpages.github.io/files/WU2021TNSE.pdf'
