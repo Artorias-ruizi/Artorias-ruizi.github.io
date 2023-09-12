@@ -1,7 +1,0 @@
-# papers
-
-## 1.WU2022TCYB
-
-## 2.WU2022NN
-
-## 3.WU2021TNSE
