@@ -33,5 +33,5 @@ single CNN method.
 
 *Key words: Complex Network, Convolution Neural Network, Connectivity Robustness*
 
-[Download paper here](http://Artorias-ruizi.github.io/files/WU2021CAC.pdf)
+[Download paper here](http://Artorias-ruizi.github.io/files/Wu2021CAC.pdf)
 
