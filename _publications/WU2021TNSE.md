@@ -6,7 +6,7 @@ excerpt: 'In the present paper, an efficient method based on convolutional neura
 date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: 'http://academicpages.github.io/files/WU2021TNSE.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Y. Lou, R. Wu, J. Li, L. Wang and G. Chen. "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness". IEEE Transactions on Network Science and Engineering. vol. 8, no. 4, pp. 3209-3219, 1 Oct.-Dec. 2021.'
 ---
 
 **Abstract**
@@ -33,7 +33,7 @@ indicator for the connectedness robustness, compared to other
 predictive measures.
 
 
-*Index Terms: Complex network, convolutional neural network, connectedness, robustness, prediction*
+*Key words: Complex network, convolutional neural network, connectedness, robustness, prediction*
 
 [Download paper here](http://academicpages.github.io/files/WU2021TNSE.pdf)
 
