@@ -29,5 +29,5 @@ existing methods
 
 *Key words: Complex network, convolutional neural network, robustness, prediction*
 
-[Download paper here](http://Artorias-ruizi.github.io/files/WU2022ACCESS.pdf)
+[Download paper here](http://Artorias-ruizi.github.io/files/Wu2022ACCESS.pdf)
 
