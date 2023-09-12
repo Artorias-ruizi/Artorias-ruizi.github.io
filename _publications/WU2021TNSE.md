@@ -35,5 +35,5 @@ predictive measures.
 
 *Key words: Complex network, convolutional neural network, connectedness, robustness, prediction*
 
-[Download paper here](http://Artorias-ruizi.github.io/files/WU2021TNSE.pdf)
+[Download paper here](http://Artorias-ruizi.github.io/files/Wu2021TNSE.pdf)
 
