@@ -6,6 +6,7 @@ date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
 ---
 
+
 **Abstract**
 
 To quantitatively measure the connectedness robustness of a complex network, a sequence of values that record the remaining connectedness of the network after a
