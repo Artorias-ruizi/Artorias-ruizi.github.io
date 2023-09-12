@@ -6,7 +6,7 @@ excerpt: 'In the present paper, an efficient method based on convolutional neura
 date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: 'http://academicpages.github.io/files/WU2021TNSE.pdf'
-citation: 'Y. Lou, R. Wu, J. Li, L. Wang and G. Chen. "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness". IEEE Transactions on Network Science and Engineering. vol. 8, no. 4, pp. 3209-3219, 1 Oct.-Dec. 2021.'
+citation: 'Yang Lou, **Ruizi Wu**, Junli Li, Lin Wang and Guanrong Chen. "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness". IEEE Transactions on Network Science and Engineering. vol. 8, no. 4, pp. 3209-3219, 1 Oct.-Dec. 2021.'
 ---
 
 **Abstract**
