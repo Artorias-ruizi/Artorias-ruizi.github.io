@@ -2,14 +2,12 @@
 title: "A Convolutional Neural Network Approach to Predicting Network Connectedness Robustness"
 collection: publications
 permalink: /publication/WU2021TNSE
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-08-27
 venue: 'IEEE Transactions on Network Science and Engineering'
-paperurl: 'http://academicpages.github.io/files/WU2021TNSE.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Abstract
+**Abstract**
+
 To quantitatively measure the connectedness robustness of a complex network, a sequence of values that record the remaining connectedness of the network after a
 sequence of node- or edge-removal attacks can be used. However, it is computationally time-consuming to measure the network
 connectedness robustness by attack simulations for large-scale networked systems. In the present paper, an efficient method
