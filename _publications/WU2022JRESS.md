@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-03-14
 venue: 'Reliability Engineering and System Safety'
 paperurl: ''
-citation: 'Sheng Li, Wenwen Liu, Ruizi Wu, Junli Li. An adaptive attack model to network controllability. Reliability Engineering & System Safety. Volume 235, 2023,109252.'
+citation: 'Sheng Li, Wenwen Liu, <b>Ruizi Wu</b>, Junli Li. An adaptive attack model to network controllability. Reliability Engineering & System Safety. Volume 235, 2023,109252.'
 ---
 
 **Abstract**
