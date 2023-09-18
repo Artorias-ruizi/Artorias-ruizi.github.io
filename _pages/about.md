@@ -17,7 +17,7 @@ My research interests include complex networks, graph neural networks, and relat
 
 
 ======
-# Hornors and Awards
+Hornors and Awards
 1. Register a GitHub account 
 
 
